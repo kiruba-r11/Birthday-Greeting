@@ -3,9 +3,9 @@ A simple app using TextViews, EditTexts, ImageViews, Buttons, and basics of Inte
 
 ## Screenshots of the App
 <table>
-<tr>
-<td> <img src = "screenshots/birthday_greeting_1.jpg" height="380" width="210"> </td>
-<td> <img src = "screenshots/birthday_greeting_2.jpg" height="380" width="210"> </td>
-<td> <img src = "screenshots/birthday_greeting_3.jpg" height="380" width="210"> </td>
-</tr>
+  <tr>
+    <td> <img src = "screenshots/birthday_greeting_1.jpg" height="380" width="210"> </td>
+    <td> <img src = "screenshots/birthday_greeting_2.jpg" height="380" width="210"> </td>
+    <td> <img src = "screenshots/birthday_greeting_3.jpg" height="380" width="210"> </td>
+  </tr>
 </table>
