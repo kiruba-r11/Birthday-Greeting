@@ -9,3 +9,5 @@ A simple app using TextViews, EditTexts, ImageViews, Buttons, and basics of Inte
     <td> <img src = "screenshots/birthday_greeting_3.jpg" height="380" width="210"> </td>
   </tr>
 </table>
+
+**_Note:_ You can find the other app that I developed using Navigation Components here :point_right: [Click Here](https://github.com/kiruba-r11/Birthday-Greeting-2)**
